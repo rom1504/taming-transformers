@@ -7,7 +7,7 @@ from PIL import Image
 from tqdm import tqdm, trange
 from einops import repeat
 
-from main import instantiate_from_config
+from taming.main import instantiate_from_config
 from taming.modules.transformer.mingpt import sample_with_past
 
 
