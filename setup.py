@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='taming-transformers',
+    name='taming-transformers-rom1504',
     version='0.0.2',
     description='Taming Transformers for High-Resolution Image Synthesis',
     packages=find_packages(),
